@@ -7,9 +7,8 @@ This project aims to detect fake news using supervised machine learning techniqu
 - 🧪 Evaluation using accuracy, precision, recall, and F1-score
 - 🐍 Built with Python and scikit-learn
 🧠 Algorithms
-| Model | Description | 
-| Logistic Regression | A linear model ideal for binary classification tasks | 
-| Decision Tree | A non-linear model that splits data based on feature thresholds | 
+**Logistic Regression** A linear model ideal for binary classification tasks 
+**Decision Tree** A non-linear model that splits data based on feature thresholds
 
 
 
