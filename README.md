@@ -1,5 +1,8 @@
 📰 Fake News Detection with Machine Learning
 This project aims to detect fake news using supervised machine learning techniques. By training models on labeled news data, it classifies articles as either real or fake, helping combat misinformation in the digital age.
+
+**You can download the dataset [here](https://www.kaggle.com/datasets/subho117/fake-news-detection-using-machine-learning).**
+
 🚀 Overview
 - 🔍 Binary classification: Real vs. Fake news
 - 🧠 Models used: LogisticRegression and DecisionTreeClassifier
